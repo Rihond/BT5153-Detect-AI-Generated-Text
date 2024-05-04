@@ -22,7 +22,7 @@ DistilBERT: Run DistilBERT.ipynb.
 
 Data_Preprocessing.ipynb: This notebook contains the code for data preprocessing.
 
-Lingtuistics Feture and Logistic Regression: This code preprocesses text data, extracts linguistic features, trains a logistic regression model, evaluates its performance, and visualizes the text feature distribution using PCA.
+5153_linguistics features statistics+logReg.ipynb: This code preprocesses text data, extracts linguistic features, trains a logistic regression model, evaluates its performance, and visualizes the text feature distribution using PCA.
 
 5153_tfidf_logReg.ipynb: This notebook implements TF-IDF and Logistic Regression.
 
