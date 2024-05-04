@@ -9,15 +9,21 @@ The proliferation of large language models (LLMs) has raised concerns about the 
 To run the code, follow these steps:
 
 Data Preprocessing: Execute Data_Preprocessing.ipynb.
+
 TF-IDF Logistic Regression: Run 5153_tfidf_logReg.ipynb.
+
 KNN-SVM: Open and execute KNN-SVM.ipynb.
+
 DistilBERT: Run DistilBERT.ipynb.
 
 ## File Descriptions
 
 Data_Preprocessing.ipynb: This notebook contains the code for data preprocessing.
+
 5153_tfidf_logReg.ipynb: This notebook implements TF-IDF and Logistic Regression.
+
 KNN-SVM.ipynb: Contains code for implementing K-Nearest Neighbors (KNN) and Support Vector Machines (SVM).
+
 DistilBERT.ipynb: Implements the DistilBERT model.
 ## Dataset Description
 
